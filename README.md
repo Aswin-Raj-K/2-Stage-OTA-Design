@@ -63,7 +63,3 @@ After successful simulation and analysis, the OTA design can be translated into 
 ## Conclusion
 
 Designing a two-stage OTA involves careful consideration of transistor sizing, biasing, and load components to meet specific performance requirements. Simulations and analysis play a crucial role in ensuring the OTA functions as intended. Once the design is complete, it can be fabricated for use in various analog applications.
-
-## References
-
-- [Analog Integrated Circuit Design](#)
