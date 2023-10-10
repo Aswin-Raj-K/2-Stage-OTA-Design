@@ -2,18 +2,6 @@
 
 This repository contains documentation and design files for a Two-Stage Operational Transconductance Amplifier (OTA). An OTA is a fundamental building block in analog integrated circuit design, commonly used in various applications such as amplifiers, filters, and voltage-controlled oscillators. This README.md file provides an overview of the OTA design and its key components.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Design Components](#design-components)
-  - [Stage 1: Differential Amplifier](#stage-1-differential-amplifier)
-  - [Stage 2: Gain Stage](#stage-2-gain-stage)
-- [Design Parameters](#design-parameters)
-- [Simulation and Analysis](#simulation-and-analysis)
-- [Layout and Fabrication](#layout-and-fabrication)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ## Introduction
 
 The Two-Stage Operational Transconductance Amplifier (OTA) is a common configuration used in analog integrated circuits. It consists of two main stages: the differential amplifier (input stage) and the gain stage. This two-stage architecture provides several advantages, including high gain, good linearity, and low distortion.
